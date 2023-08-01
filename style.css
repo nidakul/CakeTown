@@ -215,3 +215,20 @@ figure > figcaption{
     text-align: center;
     color: red;
 }
+
+/* menu.html */
+#menus > h6{
+    text-align: center;
+    color: #d98cd9;
+    font-size: 20px;
+    margin-top: 18px;
+}
+
+figure > figcaption{
+    color: #d98cd9;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
