@@ -253,9 +253,14 @@ figure>figcaption {
     margin: 15px 8px;
   }
 
+  .card p {
+    word-wrap:break-word;
+}
+
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  }
+    word-wrap: break-word; 
+}
   
   .card img {
     width: 100%; 
@@ -282,4 +287,3 @@ figure>figcaption {
     background-color: #555;
   }
  
-  
